@@ -4,6 +4,9 @@ List of Youtube Tutorials
 ## Tutorials
 - [ ] PHP
 - [ ] Java
+- [ ] C#
+- [ ] C
+- [ ] C++
 - [ ] Kotlin
 - [ ] Javascript
 - [ ] CSS 3
