@@ -20,6 +20,9 @@ List of Youtube Tutorials
 - [ ] Ruby
 - [ ] Golang
 - [ ] Rust
+- [ ] Arduino
+- [ ] Raspberry Pi
+- [ ] IoT
 
 ## License
 Youtube Tutorials List is licensed under the Apache License (ASL) license. For more information, see the LICENSE file in this repository.
